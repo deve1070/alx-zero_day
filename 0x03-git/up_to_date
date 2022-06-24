@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "touch"
+touch up_to_date
